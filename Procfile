@@ -1,0 +1,1 @@
+web: java -jar build/libs/tennis-tournament-0.0.1-SNAPSHOT.jar
